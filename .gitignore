@@ -1,0 +1,12 @@
+.classpath
+.project
+.settings/
+.sonar/
+lib/
+bin/
+target/
+test-output/
+javadocs/
+src/main/java/com/forrst/api/*.asc*.iml
+*.idea*
+*.iml
